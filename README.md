@@ -15,7 +15,7 @@ and are there seasonal patterns we can use for inventory planning?
 - The 35–44 age cohort has the highest average order value ($521)
 
 ## Tableau Dashboard
-[View Interactive Dashboard](https://public.tableau.com/app/profile/michael.madkine/viz/Retail-Sales-EDA-Mohammad-Talib/RetailSalesEDA2023MichaelMadkinDataset)
+[View Interactive Dashboard](https://public.tableau.com/app/profile/michael.madkine/vizzes)
 
 ## Portfolio
-[View Full EDA Portfolio]([YOUR_PORTFOLIO_UR](https://public.tableau.com/app/profile/michael.madkine/vizzes))
+[View Full EDA Portfolio](https://public.tableau.com/app/profile/michael.madkine/viz/Retail-Sales-EDA-Mohammad-Talib/RetailSalesEDA2023MichaelMadkinDataset)
