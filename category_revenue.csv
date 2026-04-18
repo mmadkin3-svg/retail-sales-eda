@@ -1,4 +1,0 @@
-Product_Category,transactions,total_revenue,avg_order_value,avg_quantity,avg_unit_price,max_order_value
-Electronics,342,156905.0,458.79,2.48,181.9,2000.0
-Clothing,351,155580.0,443.25,2.55,174.29,2000.0
-Beauty,307,143515.0,467.48,2.51,184.06,2000.0
