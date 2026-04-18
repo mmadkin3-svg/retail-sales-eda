@@ -1,0 +1,7 @@
+Gender,Product_Category,transactions,avg_spend,total_revenue
+Female,Beauty,166,450.78,74830.0
+Female,Clothing,174,467.1,81275.0
+Female,Electronics,170,451.38,76735.0
+Male,Beauty,141,487.13,68685.0
+Male,Clothing,177,419.8,74305.0
+Male,Electronics,172,466.1,80170.0
