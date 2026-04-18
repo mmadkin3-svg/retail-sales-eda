@@ -9,4 +9,4 @@ COUNTIF(Transaction_ID   IS NULL) AS null_txn_id,
   COUNTIF(Quantity         IS NULL) AS null_qty,
   COUNTIF(Price_per_Unit   IS NULL) AS null_price,
   COUNTIF(Total_Amount     IS NULL) AS null_total
-FROM `your-project.retail_eda.retail_sales`
+FROM `circular-acumen-445903-j5.retail_eda.retail_sales`
