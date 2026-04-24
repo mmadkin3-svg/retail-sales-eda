@@ -10,9 +10,9 @@ Which product categories and customer segments drive the most revenue,
 and are there seasonal patterns we can use for inventory planning?
 
 ## Key Findings
-- Electronics generates 38% of revenue despite 34% of transactions
-- Revenue peaks in May; February dip is addressable with targeted campaigns
-- The 18-24 age cohort has the highest average order value ($1001.88)
+Electronics generates 38% of total revenue despite only 34% of transactions — high unit price drives its share over volume.
+Revenue drops in September — the lowest point of the year. A targeted back-to-school or fall promotion could address this gap.
+18–24 year olds have the highest average spend per transaction — the youngest segment outspends all others, making them the highest-priority group for loyalty programmes and targeted promotions.
 
 ## Tableau Dashboard
 [View Interactive Dashboard](https://public.tableau.com/app/profile/michael.madkine/vizzes)
