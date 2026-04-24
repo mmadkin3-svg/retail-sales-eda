@@ -12,7 +12,7 @@ and are there seasonal patterns we can use for inventory planning?
 ## Key Findings
 - Electronics generates 38% of revenue despite 34% of transactions
 - Revenue peaks in May; February dip is addressable with targeted campaigns
-- The 35–44 age cohort has the highest average order value ($521)
+- The 18-24 age cohort has the highest average order value ($1001.88)
 
 ## Tableau Dashboard
 [View Interactive Dashboard](https://public.tableau.com/app/profile/michael.madkine/vizzes)
